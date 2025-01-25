@@ -1,0 +1,14 @@
+project/
+|-- index.php             # Главный входной файл
+|-- db.php                # Подключение к базе данных
+|-- config.php            # Конфигурация сайта
+|-- templates/
+|   |-- header.php        # Шапка сайта
+|   |-- footer.php        # Подвал сайта
+|-- pages/
+|   |-- home.php          # Главная страница
+|   |-- about.php         # Страница "О нас"
+|-- css/
+|   |-- styles.css        # Стили сайта
+|-- assets/
+|   |-- images/           # Изображения
